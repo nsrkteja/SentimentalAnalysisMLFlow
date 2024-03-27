@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/e25eead5db424d4883949e36a9cb6b9b/artifacts
+end_time: 1711513986551
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: e25eead5db424d4883949e36a9cb6b9b
+run_name: capable-wolf-43
+run_uuid: e25eead5db424d4883949e36a9cb6b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513814989
+status: 3
+tags: []
+user_id: rameshbabu

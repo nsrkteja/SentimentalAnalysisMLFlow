@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/a7c1f72a1430471482d395f8f746a5eb/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: a7c1f72a1430471482d395f8f746a5eb
+run_name: classy-bass-199
+run_uuid: a7c1f72a1430471482d395f8f746a5eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

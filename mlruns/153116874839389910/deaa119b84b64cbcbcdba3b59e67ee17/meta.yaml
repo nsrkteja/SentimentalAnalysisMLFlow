@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/deaa119b84b64cbcbcdba3b59e67ee17/artifacts
+end_time: 1711513986551
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: deaa119b84b64cbcbcdba3b59e67ee17
+run_name: unleashed-cub-962
+run_uuid: deaa119b84b64cbcbcdba3b59e67ee17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513814989
+status: 3
+tags: []
+user_id: rameshbabu

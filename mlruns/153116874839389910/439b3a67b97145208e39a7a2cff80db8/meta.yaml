@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/439b3a67b97145208e39a7a2cff80db8/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 439b3a67b97145208e39a7a2cff80db8
+run_name: loud-bee-407
+run_uuid: 439b3a67b97145208e39a7a2cff80db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

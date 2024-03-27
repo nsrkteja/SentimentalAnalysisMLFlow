@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/69d38321ca1949fdaf54fd6518b1412e/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 69d38321ca1949fdaf54fd6518b1412e
+run_name: handsome-croc-122
+run_uuid: 69d38321ca1949fdaf54fd6518b1412e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

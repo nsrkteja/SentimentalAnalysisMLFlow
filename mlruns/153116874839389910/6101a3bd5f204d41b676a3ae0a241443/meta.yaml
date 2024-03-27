@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/6101a3bd5f204d41b676a3ae0a241443/artifacts
+end_time: 1711513986551
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 6101a3bd5f204d41b676a3ae0a241443
+run_name: calm-boar-22
+run_uuid: 6101a3bd5f204d41b676a3ae0a241443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513814989
+status: 3
+tags: []
+user_id: rameshbabu

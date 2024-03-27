@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/ae47381fb5b147e4974045f169d2b320/artifacts
+end_time: 1711515264804
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: ae47381fb5b147e4974045f169d2b320
+run_name: hilarious-vole-120
+run_uuid: ae47381fb5b147e4974045f169d2b320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711514693157
+status: 3
+tags: []
+user_id: rameshbabu

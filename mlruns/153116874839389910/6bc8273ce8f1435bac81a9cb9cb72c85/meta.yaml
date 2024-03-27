@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/6bc8273ce8f1435bac81a9cb9cb72c85/artifacts
+end_time: 1711513986551
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 6bc8273ce8f1435bac81a9cb9cb72c85
+run_name: glamorous-hare-397
+run_uuid: 6bc8273ce8f1435bac81a9cb9cb72c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513814989
+status: 3
+tags: []
+user_id: rameshbabu

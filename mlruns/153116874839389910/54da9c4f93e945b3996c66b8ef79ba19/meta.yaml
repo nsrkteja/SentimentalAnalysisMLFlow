@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/54da9c4f93e945b3996c66b8ef79ba19/artifacts
+end_time: 1711515564937
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 54da9c4f93e945b3996c66b8ef79ba19
+run_name: hilarious-sponge-95
+run_uuid: 54da9c4f93e945b3996c66b8ef79ba19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711515557500
+status: 3
+tags: []
+user_id: rameshbabu

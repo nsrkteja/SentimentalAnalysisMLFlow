@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/5d8ab4a549cb4d6bba303f77363f9c44/artifacts
+end_time: 1711515264804
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 5d8ab4a549cb4d6bba303f77363f9c44
+run_name: indecisive-wolf-590
+run_uuid: 5d8ab4a549cb4d6bba303f77363f9c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711514693157
+status: 3
+tags: []
+user_id: rameshbabu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/7f19c1a92c9c4808bb97d20f4d250991/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 7f19c1a92c9c4808bb97d20f4d250991
+run_name: sassy-calf-330
+run_uuid: 7f19c1a92c9c4808bb97d20f4d250991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

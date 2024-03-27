@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/dc0e135d63c34b51af7a985b5d00d27d/artifacts
+end_time: 1711513986551
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: dc0e135d63c34b51af7a985b5d00d27d
+run_name: dapper-seal-80
+run_uuid: dc0e135d63c34b51af7a985b5d00d27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513814989
+status: 3
+tags: []
+user_id: rameshbabu

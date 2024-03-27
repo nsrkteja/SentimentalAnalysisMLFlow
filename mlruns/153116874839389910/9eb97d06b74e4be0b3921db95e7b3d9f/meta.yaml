@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/9eb97d06b74e4be0b3921db95e7b3d9f/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 9eb97d06b74e4be0b3921db95e7b3d9f
+run_name: masked-ox-610
+run_uuid: 9eb97d06b74e4be0b3921db95e7b3d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

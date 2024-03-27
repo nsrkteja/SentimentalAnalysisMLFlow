@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/4bf0dcf960f247278b2cbec3897b0790/artifacts
+end_time: 1711515264804
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 4bf0dcf960f247278b2cbec3897b0790
+run_name: worried-kite-104
+run_uuid: 4bf0dcf960f247278b2cbec3897b0790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711514693157
+status: 3
+tags: []
+user_id: rameshbabu

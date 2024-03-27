@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/66b80876edfd4f20a876e2e96bb7f870/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 66b80876edfd4f20a876e2e96bb7f870
+run_name: orderly-mink-806
+run_uuid: 66b80876edfd4f20a876e2e96bb7f870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/346efc93814c43c484063852bb87b08f/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 346efc93814c43c484063852bb87b08f
+run_name: dazzling-goat-635
+run_uuid: 346efc93814c43c484063852bb87b08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

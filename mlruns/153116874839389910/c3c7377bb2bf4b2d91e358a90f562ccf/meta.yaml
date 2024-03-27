@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/c3c7377bb2bf4b2d91e358a90f562ccf/artifacts
+end_time: 1711515264804
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: c3c7377bb2bf4b2d91e358a90f562ccf
+run_name: honorable-seal-153
+run_uuid: c3c7377bb2bf4b2d91e358a90f562ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711514693157
+status: 3
+tags: []
+user_id: rameshbabu

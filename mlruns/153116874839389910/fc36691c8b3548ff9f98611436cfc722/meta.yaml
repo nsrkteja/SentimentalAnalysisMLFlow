@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/fc36691c8b3548ff9f98611436cfc722/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: fc36691c8b3548ff9f98611436cfc722
+run_name: whimsical-horse-694
+run_uuid: fc36691c8b3548ff9f98611436cfc722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

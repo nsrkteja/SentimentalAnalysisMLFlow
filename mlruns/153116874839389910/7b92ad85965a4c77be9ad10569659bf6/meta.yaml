@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/7b92ad85965a4c77be9ad10569659bf6/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 7b92ad85965a4c77be9ad10569659bf6
+run_name: dazzling-horse-410
+run_uuid: 7b92ad85965a4c77be9ad10569659bf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

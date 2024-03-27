@@ -1,0 +1,1 @@
+[{'scaler': [StandardScaler(), MaxAbsScaler()], 'classifier__max_depth': [None, 5, 10]}]

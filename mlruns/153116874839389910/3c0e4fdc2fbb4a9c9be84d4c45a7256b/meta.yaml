@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/3c0e4fdc2fbb4a9c9be84d4c45a7256b/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 3c0e4fdc2fbb4a9c9be84d4c45a7256b
+run_name: hilarious-smelt-404
+run_uuid: 3c0e4fdc2fbb4a9c9be84d4c45a7256b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

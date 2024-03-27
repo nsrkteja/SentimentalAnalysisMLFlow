@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/eef54357926145fc9bb467427de07559/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: eef54357926145fc9bb467427de07559
+run_name: fearless-chimp-73
+run_uuid: eef54357926145fc9bb467427de07559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

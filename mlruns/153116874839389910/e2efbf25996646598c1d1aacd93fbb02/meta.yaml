@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/e2efbf25996646598c1d1aacd93fbb02/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: e2efbf25996646598c1d1aacd93fbb02
+run_name: bright-pig-174
+run_uuid: e2efbf25996646598c1d1aacd93fbb02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

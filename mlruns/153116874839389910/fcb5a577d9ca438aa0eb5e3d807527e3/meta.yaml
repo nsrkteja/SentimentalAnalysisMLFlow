@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/fcb5a577d9ca438aa0eb5e3d807527e3/artifacts
+end_time: 1711515264804
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: fcb5a577d9ca438aa0eb5e3d807527e3
+run_name: ambitious-wasp-29
+run_uuid: fcb5a577d9ca438aa0eb5e3d807527e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711514693157
+status: 3
+tags: []
+user_id: rameshbabu

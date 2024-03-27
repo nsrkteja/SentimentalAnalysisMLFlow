@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/728cf4da36dc41f4a5189b99cf756889/artifacts
+end_time: 1711515564937
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 728cf4da36dc41f4a5189b99cf756889
+run_name: worried-snake-174
+run_uuid: 728cf4da36dc41f4a5189b99cf756889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711515557500
+status: 3
+tags: []
+user_id: rameshbabu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/5a22398c69074d9dabe860cd45a6ad95/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 5a22398c69074d9dabe860cd45a6ad95
+run_name: able-tern-378
+run_uuid: 5a22398c69074d9dabe860cd45a6ad95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

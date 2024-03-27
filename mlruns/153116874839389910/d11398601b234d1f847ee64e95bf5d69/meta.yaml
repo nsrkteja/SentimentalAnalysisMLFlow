@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/d11398601b234d1f847ee64e95bf5d69/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: d11398601b234d1f847ee64e95bf5d69
+run_name: amazing-robin-512
+run_uuid: d11398601b234d1f847ee64e95bf5d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

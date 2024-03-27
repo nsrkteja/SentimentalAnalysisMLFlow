@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/561f409120e64b5c9b856f46bdf54c16/artifacts
+end_time: 1711515264804
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 561f409120e64b5c9b856f46bdf54c16
+run_name: casual-zebra-668
+run_uuid: 561f409120e64b5c9b856f46bdf54c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711514693157
+status: 3
+tags: []
+user_id: rameshbabu

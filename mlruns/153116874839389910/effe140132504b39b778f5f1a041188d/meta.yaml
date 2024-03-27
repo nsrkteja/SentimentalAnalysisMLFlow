@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/effe140132504b39b778f5f1a041188d/artifacts
+end_time: 1711515556978
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: effe140132504b39b778f5f1a041188d
+run_name: luxuriant-goose-776
+run_uuid: effe140132504b39b778f5f1a041188d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711515267050
+status: 3
+tags: []
+user_id: rameshbabu

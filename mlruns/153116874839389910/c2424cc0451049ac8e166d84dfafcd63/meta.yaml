@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/c2424cc0451049ac8e166d84dfafcd63/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: c2424cc0451049ac8e166d84dfafcd63
+run_name: bold-foal-876
+run_uuid: c2424cc0451049ac8e166d84dfafcd63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/669bbb983f9c41adafddcefc430e836b/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 669bbb983f9c41adafddcefc430e836b
+run_name: awesome-fish-753
+run_uuid: 669bbb983f9c41adafddcefc430e836b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

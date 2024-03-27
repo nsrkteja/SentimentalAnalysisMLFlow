@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/b3408d1ec7e446bd9b20a6d4bc35b7b5/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: b3408d1ec7e446bd9b20a6d4bc35b7b5
+run_name: persistent-robin-747
+run_uuid: b3408d1ec7e446bd9b20a6d4bc35b7b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

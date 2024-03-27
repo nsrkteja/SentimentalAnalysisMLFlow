@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/4aacd863fdf24c4683286eea16a1b901/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 4aacd863fdf24c4683286eea16a1b901
+run_name: likeable-shark-947
+run_uuid: 4aacd863fdf24c4683286eea16a1b901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

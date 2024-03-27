@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/bd838b132e9d4e94ac8802d38a748a77/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: bd838b132e9d4e94ac8802d38a748a77
+run_name: agreeable-goose-698
+run_uuid: bd838b132e9d4e94ac8802d38a748a77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

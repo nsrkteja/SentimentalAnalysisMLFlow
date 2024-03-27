@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/ee420eaf8cbc41e797b616c176ba1036/artifacts
+end_time: 1711515556568
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: ee420eaf8cbc41e797b616c176ba1036
+run_name: defiant-toad-485
+run_uuid: ee420eaf8cbc41e797b616c176ba1036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711515267050
+status: 3
+tags: []
+user_id: rameshbabu

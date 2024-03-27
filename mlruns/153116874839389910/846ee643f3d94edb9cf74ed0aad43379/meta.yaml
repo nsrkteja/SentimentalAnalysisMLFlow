@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/846ee643f3d94edb9cf74ed0aad43379/artifacts
+end_time: 1711515564937
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 846ee643f3d94edb9cf74ed0aad43379
+run_name: marvelous-mole-258
+run_uuid: 846ee643f3d94edb9cf74ed0aad43379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711515557500
+status: 3
+tags: []
+user_id: rameshbabu

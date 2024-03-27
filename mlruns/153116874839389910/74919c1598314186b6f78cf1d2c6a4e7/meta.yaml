@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/74919c1598314186b6f78cf1d2c6a4e7/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 74919c1598314186b6f78cf1d2c6a4e7
+run_name: learned-hare-640
+run_uuid: 74919c1598314186b6f78cf1d2c6a4e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/84f6e8f0f2c24828a1d7ef388579d111/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 84f6e8f0f2c24828a1d7ef388579d111
+run_name: handsome-sheep-869
+run_uuid: 84f6e8f0f2c24828a1d7ef388579d111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

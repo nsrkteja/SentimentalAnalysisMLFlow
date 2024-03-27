@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/8f1f0ed44e454144aab783d13f50c456/artifacts
+end_time: 1711513812003
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 8f1f0ed44e454144aab783d13f50c456
+run_name: lyrical-squirrel-436
+run_uuid: 8f1f0ed44e454144aab783d13f50c456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513632674
+status: 3
+tags: []
+user_id: rameshbabu

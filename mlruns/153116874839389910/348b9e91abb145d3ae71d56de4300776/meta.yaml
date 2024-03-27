@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/348b9e91abb145d3ae71d56de4300776/artifacts
+end_time: 1711514689057
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: 348b9e91abb145d3ae71d56de4300776
+run_name: smiling-moose-483
+run_uuid: 348b9e91abb145d3ae71d56de4300776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513990284
+status: 3
+tags: []
+user_id: rameshbabu

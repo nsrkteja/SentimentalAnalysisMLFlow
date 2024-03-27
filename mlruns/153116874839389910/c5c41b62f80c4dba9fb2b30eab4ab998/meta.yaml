@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rameshbabu/MLFlow%20Projects/mlruns/153116874839389910/c5c41b62f80c4dba9fb2b30eab4ab998/artifacts
+end_time: 1711513986551
+entry_point_name: ''
+experiment_id: '153116874839389910'
+lifecycle_stage: active
+run_id: c5c41b62f80c4dba9fb2b30eab4ab998
+run_name: incongruous-cow-96
+run_uuid: c5c41b62f80c4dba9fb2b30eab4ab998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711513814989
+status: 3
+tags: []
+user_id: rameshbabu
